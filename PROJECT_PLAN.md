@@ -96,3 +96,4 @@ Keep the existing MongoDB database technology.
 Do not implement an admin role.
 Focus on understanding the code rather than generating the whole application at once.
 Add complexity only when it becomes useful.
+
